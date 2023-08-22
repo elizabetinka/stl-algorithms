@@ -1,0 +1,1 @@
+add_library(algorithms algoritmics.h algoritmics.cpp)
